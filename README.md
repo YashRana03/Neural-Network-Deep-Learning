@@ -1,0 +1,1 @@
+This repo contains the deep learning model built during the Neural Network and Deep Learning module. The model attempts to classify the images from the CIFAR-10 dataset. The final model was able to achieve an 80% test accuracy.
